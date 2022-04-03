@@ -20,4 +20,4 @@ db.dropDatabase()
 
 
 
-{"first_name":"shashank","last_name":"shalabh","email":"shashank_fw15_013@masai.school","gender":"male","ip_addres":"2405:201:a403:e173:d5ab:e6ff:fe6b:deb","age":26}
+{"first_name":"Avinash","last_name":"Kumar","email":"avinash_fw15_021@masai.school","gender":"male","ip_addres":"2405:201:a403:e173:d5ab:e6ff:fe6b:deb","age":26}
